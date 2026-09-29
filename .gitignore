@@ -1,0 +1,15 @@
+# Binarios Java compilados
+*.class
+
+# IDEs e editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs e arquivos temporarios do SO
+*.log
+Thumbs.db
+.DS_Store
